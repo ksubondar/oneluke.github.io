@@ -6,7 +6,7 @@
         margin-left: calc(76px + (346 - 76) * ((100vw - 1280px) / (1550 - 1280)));
     }
     .footer-container {
-        margin-left: calc(70px + (346 - 70) * ((100vw - 1277px) / (1550 - 1277)));
+        margin-left: calc(50px + (346 - 50) * ((100vw - 1277px) / (1550 - 1277)));
     }
 }
 @media only screen and (max-width: 1277px) {
